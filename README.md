@@ -1,2 +1,2 @@
-# projects
-My portfolio projects 
+# Simplecalculator
+My portfolio project
